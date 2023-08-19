@@ -3,14 +3,14 @@
     "ID": 1,
     "Name": "Airport",
     "Story": "Your department received intel about an attack on the US. You're now at the airport, ready to take on your next mission of finding the nuclear weapon and detonating it before it is launched and capturing the criminal mastermind.",
-    "Navigation": "Press 1 to go to the Hotel, Press 2 to go to the Subway Press 3 to go to the Diner",
+    "Navigation": "Press 1 to go to the Hotel, Press 2 to go to the Subway, Press 3 to go to the Diner",
     "Choice1": 2,
     "Choice2": 7,
     "Choice3": 12,
     "Win": 0,
     "Lose": 0,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 2,
@@ -23,7 +23,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 3,
@@ -36,7 +36,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 4,
@@ -49,7 +49,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 8,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 5,
@@ -62,7 +62,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 5,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 6,
@@ -75,7 +75,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 7,
@@ -88,7 +88,7 @@
     "Win": 1,
     "Lose": 0,
     "Stranger": 5,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 8,
@@ -101,7 +101,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 15,
-    "": ""
+    "Booster": 1
   },
   {
     "ID": 9,
@@ -114,7 +114,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 6,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 10,
@@ -127,7 +127,7 @@
     "Win": 0,
     "Lose": 1,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 11,
@@ -140,7 +140,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 3,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 12,
@@ -153,7 +153,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 1,
-    "": ""
+    "Booster": 1
   },
   {
     "ID": 13,
@@ -166,7 +166,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 2,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 14,
@@ -179,7 +179,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 6,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 15,
@@ -192,7 +192,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 16,
@@ -205,7 +205,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 4,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 17,
@@ -218,7 +218,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 18,
@@ -231,7 +231,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 19,
@@ -244,7 +244,7 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   },
   {
     "ID": 20,
@@ -257,6 +257,6 @@
     "Win": 0,
     "Lose": 0,
     "Stranger": 0,
-    "": ""
+    "Booster": 0
   }
 ]
